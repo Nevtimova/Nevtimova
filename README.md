@@ -20,7 +20,7 @@
 <ul>
   <li><strong>Education 🎓:</strong> I hold a Bachelor's degree in Software and Hardware Engineering.</li>
   <li><strong>Study 📖:</strong> Currently learning Python 🐍 and AI, also I'm in the final stages of my master's degree in Robotics and Mechatronics. </li>
-  <li><strong>Certifications 🏅:</strong> Python Fundamentals and Graphic Designer</li>
+  <li><strong>Certifications 🏅:</strong> Python and Graphic Designer</li>
   <li><strong>Goals 🚀:</strong> Developing something that will be helpful to humanity.</li>
   <li><strong>Interests 🌟:</strong> Coding 💻, Exploring New Technologies 🌐 , AI, Robotics 🤖</li>
   <li><strong>Hobbies 🎨:</strong> Dancing 💃, Photography 📸</li>
