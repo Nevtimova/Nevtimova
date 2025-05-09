@@ -6,7 +6,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png" width="50" style="vertical-align: middle; position: absolute; right: 0; top: 50%;">
 </h2>
 <img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="230">
-<p><em>Currently studying Python and AI at <a href="https://softuni.bg/">SoftUni</a> <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 
 
