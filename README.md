@@ -2,7 +2,7 @@
 
 <h2 style="position: relative; padding: 0 60px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png" width="50" style="vertical-align: middle; position: absolute; left: 0; top: 50%;">
-  Hi, I'm Nikoleta Evtimova!
+  Hi, I'm Niki!
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Robot-clip-art-book-covers-feJCV3-clipart.png" width="50" style="vertical-align: middle; position: absolute; right: 0; top: 50%;">
 </h2>
 <img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="230">
