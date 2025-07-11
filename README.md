@@ -11,7 +11,6 @@
 
 
 [![Linkedin: Nikoleta Evtimova](https://img.shields.io/badge/-nikoleta--evtimova-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nikoleta-evtimova-289854214/)
-[![Email: Nikoleta Evtimova](https://img.shields.io/badge/-nikolet987%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:nikolet987@gmail.com)
 
 
 ### A little more about me...
