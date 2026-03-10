@@ -55,11 +55,6 @@
 
 ---
 
-### 📁 Alternative: Auto Projects Widget
-![Repos](https://readme-repo-widget.vercel.app/?username=nevtimova&theme=dark)
-
----
-
 ### 🧠 Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
