@@ -20,15 +20,11 @@
 ### 📊 GitHub Stats & Top Languages
 <div style="display: flex; flex-direction: row; gap: 20px; align-items: center; flex-wrap: wrap;">
 
-  <!-- Top Languages -->
-  <a href="https://github.com/nevtimova?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevtimova&count_private=true&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages" />
-  </a>
+  <!-- Top Languages (SVG директно) -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevtimova&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Languages" />
 
   <!-- GitHub Stats -->
-  <a href="https://github.com/nevtimova">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevtimova&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nevtimova&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 </div>
 
