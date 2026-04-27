@@ -7,11 +7,5 @@ Hi 👋 I'm Nikoleta Evtimova!<br>Software & Hardware Engineer | ML & AI Enthusi
 
 ---
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=nevtimova&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nevtimova&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
